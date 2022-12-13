@@ -1,0 +1,5 @@
+setup.py
+aramEnhacedAPI.egg-info/PKG-INFO
+aramEnhacedAPI.egg-info/SOURCES.txt
+aramEnhacedAPI.egg-info/dependency_links.txt
+aramEnhacedAPI.egg-info/top_level.txt
