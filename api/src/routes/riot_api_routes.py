@@ -10,4 +10,4 @@ caller = RiotApiCaller()
 def get_active_game(summoner_name: str):
     if summoner_name == "@TEST_RESPONSE":
         return caller.get_default_active_game()
-    return caller.get_active_game_data("", Region.BR, "RGAPI-1542848c-458c-4273-aab3-6de343b1b91b", summoner_name)
+    return caller.get_active_game_data("", Region.BR, "", summoner_name)
